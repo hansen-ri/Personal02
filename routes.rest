@@ -9,4 +9,15 @@ GET http://localhost:8080/Contacts/62a4c2a7675f9ab6bd3f7859
 ###
 GET http://localhost:8080/Contacts/62a4c2a7675f9ab6bd3f785a
 
+# HEROKU REST API's
+###
+GET https://cse341-personal-02.herokuapp.com/Contacts
 
+### 
+GET https://cse341-personal-02.herokuapp.com/Contacts/62a4c2a7675f9ab6bd3f7858
+
+### 
+GET https://cse341-personal-02.herokuapp.com/Contacts/62a4c2a7675f9ab6bd3f7859
+
+###
+GET https://cse341-personal-02.herokuapp.com/Contacts/62a4c2a7675f9ab6bd3f785a
